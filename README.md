@@ -57,6 +57,9 @@ The [arrays.js](assignments/arrays.js) assignment takes us through a large data 
 
 ## Notes for Standup Meeting, 3/27/19:
 
+## Pull Request Link: 
+https://github.com/arturolei/JavaScript-I/pull/1
+
 ##  Breakthroughs/Challenges
 
 ### Breakthroughs:
@@ -68,7 +71,7 @@ The [arrays.js](assignments/arrays.js) assignment takes us through a large data 
 - Arrow notation as it relates to use of the this keyword is still a bit difficult for me to understand, but I think it'll be clearer with practice. 
 
 ## What Did I Work On:
-- I worked on completing the MVP for JavaScript I and reading the TK material related to JavaScript Fundamentals 2. 
+- I worked on completing the MVP for JavaScript I and some of the stretch goals, and I also started reading the TK material related to JavaScript Fundamentals II. 
 
 ## What Do I Need to Do Tomorrow:
 - I would like to finish the second JavaScript project and really get comfortable with Closure in JavaScript. 
