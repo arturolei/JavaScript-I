@@ -53,3 +53,22 @@ The [arrays.js](assignments/arrays.js) assignment takes us through a large data 
 
 * Move on to tomorrow's content and start studying callbacks, write a few of your own to get the hang of it.
 * Look at array methods like .map(), .reduce(), .filter(). use them on the data in the arrays assignment to accomplish the same things you did with the ES5 for loop.
+
+
+## Notes for Standup Meeting, 3/27/19:
+
+##  Breakthroughs/Challenges
+
+### Breakthroughs:
+- Scoping is beginning to make a lot more sense. 
+- I feel more comfortable with arrow syntax.
+- I have a better understanding of let, var, and const. 
+
+### Challenges:
+- Arrow notation as it relates to use of the this keyword is still a bit difficult for me to understand, but I think it'll be clearer with practice. 
+
+## What Did I Work On:
+- I worked on completing the MVP for JavaScript I and reading the TK material related to JavaScript Fundamentals 2. 
+
+## What Do I Need to Do Tomorrow:
+- I would like to finish the second JavaScript project and really get comfortable with Closure in JavaScript. 
